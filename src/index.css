@@ -1,0 +1,21 @@
+/* @import url("https://fonts.cdnfonts.com/css/jacks-candlestsick"); */
+@import url("https://fonts.cdnfonts.com/css/jost-3");
+
+@font-face {
+  font-family: "Jack Candlestick";
+  src: url(./assets/jcandlestick.ttf);
+}
+@font-face {
+  font-family: "Jack Candlestick Con";
+  src: url(./assets/jcandlestickextracond.ttf);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+  img {
+    @apply mx-auto;
+  }
+}
