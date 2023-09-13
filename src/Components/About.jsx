@@ -15,8 +15,12 @@ function About() {
           <p className=" text-black text-base font-normal font-['Jost'] leading-loose tracking-tight">
             This is one of many times Sam Bankman-Fried better known as SBF has
             created fear mongering in alt-coins and the macro market.
-            <br /><br />
-            
+            <br />
+            <br />
+            The approval for the FTX liquidation event is set for September 13th
+            (today) and is expected to last weeks as the monster will liquidate
+            assets ranging from its cryptocurrency holdings, Bahama real estate
+            investments, and multiple luxury expenses.
           </p>
         </article>
       </div>

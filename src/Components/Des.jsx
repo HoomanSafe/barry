@@ -8,7 +8,7 @@ function Des() {
       <div className="container flex flex-col justify-center items-center gap-6">
         <img src={logo4} alt="" />
         <h1 className="text-center mt-10 text-orange-600 text-5xl font-normal font-JackCon max-w-[600px] leading-10">
-          Online Cryptocurrency Fighting Platform
+          Hold The Line{" "}
         </h1>
         <p className="max-w-[700px] text-start lg:text-center text-black text-base font-normal font-['Jost'] leading-loose tracking-tight">
           The project is fully decentralized and community based. We just do our
