@@ -11,11 +11,11 @@ function Des() {
           Hold The Line{" "}
         </h1>
         <p className="max-w-[700px] text-start lg:text-center text-black text-base font-normal font-['Jost'] leading-loose tracking-tight">
-          The project is fully decentralized and community based. We just do our
-          best to keep everyone together as an army. If you want to do something
-          then do it, if someone asks for a hand out you can tell them that Pepe
-          never paid for a thing. The project is fully decentralized and
-          community based.{" "}
+          As the market goes in “depression” stage SBF has rumored of firing up
+          a new and improved FTX platform. <br />
+          <br />
+          With due diligence done and brain power used… we still stand by
+          #FuckFTX
         </p>
         <div className="w-full h-16 px-8 py-5 text-xl text-white font-semibold origin-top-left rotate-3 bg-[#F75F33] justify-center items-center gap-2.5 inline-flex">
           Contract: 0x..............{" "}
