@@ -16,19 +16,13 @@ function Hero() {
         <div className="grid w-full grid-cols-1 lg:grid-cols-2 justify-between gap-16 items-center">
           <article className="flex flex-col gap-4">
             <h1 className="text-orange-600 text-5xl font-normal font-JackCon leading-10">
-              Online Cryptocurrency Fighting Platform
+              $3.4 Billion Dollar Liquidation Event{" "}
             </h1>
 
             <div className=" text-white text-base font-normal font-['Jost'] leading-loose tracking-tight">
-              The project is fully decentralized and community based. We just do
-              our best to keep everyone together as an army. If you want to do
-              something then do it, if someone asks for a hand out you can tell
-              them that Pepe never paid for a thing. The project is fully
-              decentralized and community based. <br />
-              <br />
-              If you want to do something then do it, if someone asks for a hand
-              out you can tell them that Pepe never paid for a thing. The
-              project is fully decentralized and community based.{" "}
+              A wave of pressure is coming towards alt coins and the macro
+              market as FTX plans to liquidate $3.4 billion dollars worth of
+              assets recovered from the FTX collapse to pay off its debtors.
             </div>
             <a
               href=""
