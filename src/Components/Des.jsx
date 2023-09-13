@@ -17,8 +17,15 @@ function Des() {
           With due diligence done and brain power used… we still stand by
           #FuckFTX
         </p>
-        <div className="w-full h-16 px-8 py-5 text-xl text-white font-semibold origin-top-left rotate-3 bg-[#F75F33] justify-center items-center gap-2.5 inline-flex">
-          Contract: 0x..............{" "}
+        <div
+          onClick={() => {
+            new Navigator().clipboard.writeText(
+              "0xd140e43C3e98883646Fb7255F8F65188f37F000e"
+            );
+          }}
+          className="w-full h-16 px-8 py-5 text-xl text-white font-semibold origin-top-left rotate-3 bg-[#F75F33] justify-center items-center gap-2.5 inline-flex"
+        >
+          Contract: 0xd140.......{" "}
         </div>
 
         <div className="mt-16 grid lg:grid-cols-2 justify-between items-center gap-16">
