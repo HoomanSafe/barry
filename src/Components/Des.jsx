@@ -25,19 +25,19 @@ function Des() {
           <div className="flex flex-col gap-8">
             <img src={mics} alt="" />
             <h1 className="text-orange-600 text-2xl font-normal font-JackCon">
-              Total Supply: 1, 000, 000, 000
+              Total Supply: 420,000,000
             </h1>
           </div>
           <article className="grid place-items-center font-Jack">
-            <div className=" flex-col justify-start items-start gap-6 inline-flex">
+            <div className=" flex-col justify-start items-stretch gap-6 inline-flex">
               <div className="px-7 py-7 bg-yellow-500 rounded-lg flex-col justify-start items-start gap-2.5 flex">
                 <div className="justify-start items-center gap-11 inline-flex">
                   <div className="text-black text-xl font-normal font-['Jack's Candlestick'] leading-7">
-                    Max Supply
+                    Tax
                   </div>
                   <div className="justify-start items-center gap-3 flex">
                     <div className="text-black text-2xl font-semibold font-['Jost'] leading-loose">
-                      58%
+                      1/1
                     </div>
                   </div>
                 </div>
@@ -45,23 +45,11 @@ function Des() {
               <div className="px-7 py-7 bg-orange-600 rounded-lg flex-col justify-start items-start gap-2.5 flex">
                 <div className="justify-start items-center gap-11 inline-flex">
                   <div className="text-black text-xl font-normal font-['Jack's Candlestick'] leading-7">
-                    Max Supply
+                    Max Txn
                   </div>
                   <div className="justify-start items-center gap-3 flex">
                     <div className="text-black text-2xl font-semibold font-['Jost'] leading-loose">
-                      22%
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="px-7 py-7 bg-emerald-500 rounded-lg flex-col justify-start items-start gap-2.5 flex">
-                <div className="justify-start items-center gap-11 inline-flex">
-                  <div className="text-black text-xl font-normal font-['Jack's Candlestick'] leading-7">
-                    Max Supply
-                  </div>
-                  <div className="justify-start items-center gap-3 flex">
-                    <div className="text-black text-2xl font-semibold font-['Jost'] leading-loose">
-                      30%
+                      2%
                     </div>
                   </div>
                 </div>
