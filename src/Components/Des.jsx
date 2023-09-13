@@ -25,7 +25,7 @@ function Des() {
           <div className="flex flex-col gap-8">
             <img src={mics} alt="" />
             <h1 className="text-orange-600 text-2xl font-normal font-JackCon">
-              Total Supply: 420,000,000
+              Total Supply: 3,400,000,000
             </h1>
           </div>
           <article className="grid place-items-center font-Jack">
