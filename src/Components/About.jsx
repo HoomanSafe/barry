@@ -9,7 +9,7 @@ function About() {
 
         <article className="flex flex-col gap-4">
           <h1 className="text-orange-600 text-5xl font-JackCon leading-10">
-            $3.4 Billion Dollar Liquidation Event{" "}
+            #FuckFTX{" "}
           </h1>
 
           <div className=" text-black text-base font-normal font-['Jost'] leading-loose tracking-tight">

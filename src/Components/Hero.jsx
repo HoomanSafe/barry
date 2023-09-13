@@ -23,6 +23,12 @@ function Hero() {
               A wave of pressure is coming towards alt coins and the macro
               market as FTX plans to liquidate $3.4 billion dollars worth of
               assets recovered from the FTX collapse to pay off its debtors.
+              <br />
+              <br />
+              Bitcoin and Solana are two of Sam Bankman-Fried’s biggest
+              holdings! Amid fears of the FTX dump, Solana has dropped a
+              whopping 6% in the last couple of days as investors are preparing
+              for what’s to come.
             </div>
             <a
               href=""
