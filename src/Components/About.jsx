@@ -12,11 +12,12 @@ function About() {
             #FuckFTX{" "}
           </h1>
 
-          <div className=" text-black text-base font-normal font-['Jost'] leading-loose tracking-tight">
-            A wave of pressure is coming towards alt coins and the macro market
-            as FTX plans to liquidate $3.4 billion dollars worth of assets
-            recovered from the FTX collapse to pay off its debtors.
-          </div>
+          <p className=" text-black text-base font-normal font-['Jost'] leading-loose tracking-tight">
+            This is one of many times Sam Bankman-Fried better known as SBF has
+            created fear mongering in alt-coins and the macro market.
+            <br /><br />
+            
+          </p>
         </article>
       </div>
     </section>
