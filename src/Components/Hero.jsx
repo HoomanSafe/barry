@@ -1,6 +1,6 @@
 import React from "react";
-import logo from "../assets/logo.webp";
-import logo2 from "../assets/logo2.svg";
+import logo from "../assets/logo1.png";
+import logo2 from "../assets/logo2.jpg";
 
 function Hero() {
   return (
@@ -9,38 +9,34 @@ function Hero() {
         <div className="flex justify-center items-center flex-col gap-6">
           <img src={logo} alt="" className="md:w-5/12" />
           <div className="text-yellow-300 text-5xl font-normal font-Jack">
-            Fuck Ftx
+            Barry Inu
           </div>
         </div>
 
         <div className="grid w-full grid-cols-1 lg:grid-cols-2 justify-between gap-16 items-center">
           <article className="flex flex-col gap-4">
             <h1 className="text-orange-600 text-5xl font-normal font-JackCon leading-10">
-              $3.4 Billion Dollar Liquidation Event{" "}
+              Starting Barry inu's mission on the Binance Smart Chain network. {" "}
             </h1>
 
             <div className=" text-white text-base font-normal font-['Jost'] leading-loose tracking-tight">
-              A wave of pressure is coming towards alt coins and the macro
-              market as FTX plans to liquidate $3.4 billion dollars worth of
-              assets recovered from the FTX collapse to pay off its debtors.
+              In the midst of the rise of "memecoin", BARRY INU (BARRY) was born to promote, educate and support the binance ecosystem.
               <br />
               <br />
-              Bitcoin and Solana are two of Sam Bankman-Fried’s biggest
-              holdings! Amid fears of the FTX dump, Solana has dropped a
-              whopping 6% in the last couple of days as investors are preparing
-              for what’s to come.
+              Seeing the potential of Online communities, the advantages of BARRY, and the influence of dog coin in attracting new market players, marketing the underlying blockchain, and infiltrating current culture, BARRY also evolved into an experimental Web 3.0 community coin.
+              
             </div>
             <a
               href=""
               className="w-64 h-14 px-8 py-4 origin-top-left -rotate-3 bg-orange-600 rounded border-2 border-amber-600 justify-center items-center gap-2.5 inline-flex"
             >
               <div className="text-white text-xl font-normal font-Jack leading-7 tracking-tight">
-                BUY FUCK FTX
+                BUY BARRY INU
               </div>
             </a>
 
             <div className="flex items-center gap-1">
-              <a href="https://twitter.com/FuckFTXeth">
+              <a href="http://x.com/Barryinubsc">
                 <svg
                   width="40"
                   height="40"
@@ -60,7 +56,7 @@ function Hero() {
                   />
                 </svg>
               </a>
-              <a href="https://t.me/FuckFTXeth">
+              <a href="https://t.me/Barryinu">
                 <svg
                   width="41"
                   height="40"
