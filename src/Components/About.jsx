@@ -1,5 +1,5 @@
 import React from "react";
-import logo3 from "../assets/logo3.svg";
+import logo3 from "../assets/logo1.png";
 
 function About() {
   return (
@@ -9,18 +9,20 @@ function About() {
 
         <article className="flex flex-col gap-4">
           <h1 className="text-orange-600 text-5xl font-JackCon leading-10">
-            #FuckFTX{" "}
+            #Barryinu{" "}
           </h1>
 
           <p className=" text-black text-base font-normal font-['Jost'] leading-loose tracking-tight">
-            This is one of many times Sam Bankman-Fried better known as SBF has
-            created fear mongering in alt-coins and the macro market.
+            In the midst of the rise of "memecoin",
+            BARRY INU (BARRY) was born to promote,  <br />
             <br />
-            <br />
-            The approval for the FTX liquidation event is set for September 13th
-            (today) and is expected to last weeks as the monster will liquidate
-            assets ranging from its cryptocurrency holdings, Bahama real estate
-            investments, and multiple luxury expenses.
+            
+            educate and support the binance ecosystem. Seeing the potential of Online communities, the advantages of BARRY, 
+            and the influence of dog coin in attracting new market players, 
+            marketing the underlying blockchain,
+            and infiltrating current culture, 
+            BARRY also evolved into an experimental Web 3.0 community coin.
+
           </p>
         </article>
       </div>
