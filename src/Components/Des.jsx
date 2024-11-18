@@ -20,12 +20,12 @@ function Des() {
         <div
           onClick={() => {
             new Navigator().clipboard.writeText(
-              "0x0000000000000000"
+              "0x21c8c467791756C5fDcBe2d6822b8347DA31c553"
             );
           }}
           className="w-full h-16 px-8 py-5 text-xl text-white font-semibold origin-top-left rotate-3 bg-[#F75F33] justify-center items-center gap-2.5 inline-flex"
         >
-          Contract: 0x000000.......{" "}
+          Contract: 0x21c8c46779.......{" "}
         </div>
 
         <div className="mt-16 grid lg:grid-cols-2 justify-between items-center gap-16">
