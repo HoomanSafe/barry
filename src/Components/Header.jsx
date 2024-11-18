@@ -11,7 +11,7 @@ function Header() {
           href=""
           className="text-white text-3xl font-Jack uppercase font-bold"
         >
-          Fuck Ftx
+          Barry Inu
         </a>
 
         <ul className="hidden lg:flex items-center gap-16">
@@ -42,7 +42,7 @@ function Header() {
         </ul>
 
         <div className="flex items-center gap-1">
-          <a href="https://twitter.com/FuckFTXeth">
+          <a href="http://x.com/Barryinubsc">
             <svg
               width="30"
               height="30"
@@ -62,7 +62,7 @@ function Header() {
               />
             </svg>
           </a>
-          <a href="https://t.me/FuckFTXeth">
+          <a href="https://t.me/Barryinu">
             <svg
               width="31"
               height="30"
