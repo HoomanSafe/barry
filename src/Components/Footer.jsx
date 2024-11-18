@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/logo.svg";
+import logo from "../assets/logo1.jpg";
 
 function Footer() {
   return (
@@ -12,11 +12,11 @@ function Footer() {
           className="w-64 h-14 px-8 py-4 origin-top-left -rotate-3 bg-orange-600 rounded border-2 border-amber-600 justify-center items-center gap-2.5 inline-flex"
         >
           <div className="text-white text-xl font-normal font-Jack leading-7 tracking-tight">
-            BUY FUCK FTX
+            BUY BARRY INU
           </div>
         </a>
         <div className="flex items-center gap-1">
-          <a href="https://twitter.com/FuckFTXeth">
+          <a href="http://x.com/Barryinubsc">
             <svg
               width="40"
               height="40"
@@ -36,7 +36,7 @@ function Footer() {
               />
             </svg>
           </a>
-          <a href="https://t.me/FuckFTXeth">
+          <a href="https://t.me/Barryinu">
             <svg
               width="41"
               height="40"
