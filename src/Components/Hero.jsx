@@ -1,6 +1,6 @@
 import React from "react";
 import logo from "../assets/logo1.png";
-import logo2 from "../assets/logo2.jpg";
+import logo2 from "../assets/logo3.jpg";
 import logo3 from "../assets/logo3.jpg";
 
 function Hero() {
